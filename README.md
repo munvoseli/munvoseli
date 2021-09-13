@@ -1,6 +1,6 @@
 ### Hello there
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munvoseli&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munvoseli&theme=radical"/>
 <img src="https://github-readme-stats.vercel.app/api?username=munvoseli&show_icons=true&theme=radical"/>
 
 [GitHub stats](https://github.com/anuraghazra/github-readme-stats)
