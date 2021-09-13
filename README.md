@@ -5,6 +5,7 @@
 
 [GitHub stats](https://github.com/anuraghazra/github-readme-stats)
 
+I'm currently learning C, but I have used JavaScript for many things.
 
 <!--
 **munvoseli/munvoseli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
