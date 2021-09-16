@@ -2,6 +2,8 @@
 
 General Kenobi!
 
+Most of my things are on my [GitHub pages website](https://munvoseli.github.io).
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munvoseli&theme=radical"/>
 <img src="https://github-readme-stats.vercel.app/api?username=munvoseli&show_icons=true&theme=radical"/>
 
