@@ -4,12 +4,12 @@ General Kenobi!
 
 Most of my things are on my [GitHub pages website](https://munvoseli.github.io).
 
+As of 2021, I'm currently learning C.  I have used JavaScript for most things since 2013.
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munvoseli&theme=radical"/>
 <img src="https://github-readme-stats.vercel.app/api?username=munvoseli&show_icons=true&theme=radical"/>
 
 [GitHub stats](https://github.com/anuraghazra/github-readme-stats)
-
-I'm currently learning C, but I have used JavaScript for many things.
 
 <!--
 **munvoseli/munvoseli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
